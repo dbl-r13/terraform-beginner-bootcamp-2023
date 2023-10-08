@@ -1,6 +1,6 @@
 # Terraform Beginner Bootcamp 2023
 
-## Semantic Versioning
+## Semantic Versioning :mage:
 
 The General Format:
 **MAJOR.MINOR.PATCH**, eg. `1.0.1`
